@@ -2,7 +2,7 @@
 
 [Clojure](https://clojure.org/) Program to print the Prime Multiplication Table for first `n` Prime Numbers
 
-## Specifications
+## Environment Dependencies
 
 Make sure you have these installed :
 1. [Java](https://www.java.com/en/download/)
