@@ -15,17 +15,21 @@ Navigate to project root directory
 ### Using Java
 
 For Multiplication Table of 10 prime numbers : 10 is default value
+
 ` $ java -jar prime-multiplication.jar `
 
 For Multiplication Table of n prime numbers : n is any natural number
+
 ` $ java -jar prime-multiplication.jar n `
 
 ### Using Leiningen
 
 For Multiplication Table of 10 prime numbers : 10 is default value
+
 ` $ lein run `
 
 For Multiplication Table of n prime numbers : n is any natural number
+
 ` $ lein run 15 `
 
 ## Examples
@@ -66,11 +70,13 @@ $ lein run
 ## Test
 
 The test suite can be run with lein
+
 ` $ lein test `
 
 ## Build
 
 To build the standalone JAR file, use :
+
 ` $ lein uberjar`
 
 ## Project Dependencies
